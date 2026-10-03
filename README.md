@@ -1,6 +1,5 @@
-<div align="center">
+<div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=60&duration=150&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=180&lines=Hello;Namaste;Vanakkam;Bonjour;Hola;Ciao" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=85&duration=800&pause=1500&delete=true&color=000000&background=FFFFFF&cursorColor=000000&cursor=true&width=1100&height=200&lines=Namaste;Vanakkam;Hello;Bonjour;Hola;Ciao" />
 
 </div>
-
