@@ -1,4 +1,5 @@
-## Vanakkam 
+## Vanakkam
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&center=true&vCenter=true&width=600&lines=Hello;Namaste;Vanakkam;Bonjour;Hola;Ciao)](https://git.io/typing-svg)
 
 <!--
 **Ranjana-01-coder/Ranjana-01-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
